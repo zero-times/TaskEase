@@ -55,6 +55,8 @@ features                                  :
   - title                                 : Quick Wake-Up Record Shortcut Command
     description                           : Instantly Start Recording, Capture Ideas Effortlessly
     fontawesome_icon_name                 : truck-fast
+    
+    #icon https://fontawesome.com/icons
 
 # Theme Settings
 topbar_color                              : "#000000"
