@@ -48,11 +48,13 @@ features                                  :
     description                           : Mark tasks as completed when finished, providing users with a sense of accomplishment and progress tracking.
     fontawesome_icon_name                 : star
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Apple iCloud Data Synchronization
+    description                           : Achieving Cross-Device Data Sync and Sharing
+    fontawesome_icon_name                 : icloud
 
-
+  - title                                 : Quick Wake-Up Record Shortcut Command
+    description                           : Instantly Start Recording, Capture Ideas Effortlessly
+    fontawesome_icon_name                 : truck-fast
 
 # Theme Settings
 topbar_color                              : "#000000"
