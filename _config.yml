@@ -50,7 +50,7 @@ features                                  :
 
   - title                                 : Apple iCloud Data Synchronization
     description                           : Achieving Cross-Device Data Sync and Sharing
-    fontawesome_icon_name                 : cloud-arrow-up
+    fontawesome_icon_name                 : database
 
   - title                                 : Quick Wake-Up Record Shortcut Command
     description                           : Instantly Start Recording, Capture Ideas Effortlessly
